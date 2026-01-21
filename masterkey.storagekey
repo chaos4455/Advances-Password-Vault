@@ -1,0 +1,7 @@
+{
+    "iterations": 1000000,
+    "salt": "+XgiCkRGjBc2Ai3STjWEIQ==",
+    "nonce": "KYVaYbVYVchwRdfP",
+    "ciphertext": "a6bwDQ9mBZO5ViBcLXyVXxnRD9CPT8XMyMCnWC+AKo9pmkmd1MGjBJYls0eUUGl2",
+    "desc": "Chave Mestra AES-256 para criptografar o Vault de Senhas."
+}
