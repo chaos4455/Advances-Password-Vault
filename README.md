@@ -4,6 +4,9 @@ This repository presents an elegant and robust Proof-of-Concept (POC) for a loca
 
 The system demonstrates advanced techniques in: Key Derivation Functions (KDFs), Authenticated Encryption (AEAD), and secure database design for zero-plaintext storage.
 
+<img width="1536" height="1024" alt="ChatGPT Image 21 de jan  de 2026, 12_02_45" src="https://github.com/user-attachments/assets/039fa616-96b7-4c14-974b-20237f10456a" />
+
+
 ---
 
 ## 🚀 Project Status & Technology Stack
