@@ -1,4 +1,4 @@
-# 🛡️ Advanced Password Vault: Secure CLI Architecture (POC/MVP)
+# 🛡️ Advanced Password Vault: Secure CLI For Credential Storage Architecture (POC/MVP)
 
 This repository presents an elegant and robust Proof-of-Concept (POC) for a local, command-line interface (CLI) driven password vault. The core design philosophy centers on **Maximum Security** through a multi-layered cryptographic architecture where all sensitive data, including service names and credentials, is stored in a **100% encrypted state**.
 
